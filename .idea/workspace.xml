@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5c3d8e9-c009-4e7f-95ef-4c9b2da23f39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Main.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/Main2.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Main2.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/models/Character.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/models/Character.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/models/Characters.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/models/Characters.scala" afterDir="false" />
@@ -83,6 +80,18 @@
       <option name="presentableId" value="Default" />
       <updated>1703394173076</updated>
     </task>
+    <task id="LOCAL-00001" summary="basic code to create board, place pieces and move pieces.">
+      <created>1703701737220</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703701737220</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="basic code to create board, place pieces and move pieces." />
+    <option name="LAST_COMMIT_MESSAGE" value="basic code to create board, place pieces and move pieces." />
   </component>
 </project>
