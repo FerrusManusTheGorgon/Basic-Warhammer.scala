@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5c3d8e9-c009-4e7f-95ef-4c9b2da23f39" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Main3.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Main4.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Main5.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Main6.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/Main2.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Main2.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/models/Character.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/models/Character.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/models/Characters.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/models/Characters.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,14 +48,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main2">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Basic-Warhammer.scala" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main5">
     <configuration name="Main2" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main2" />
       <module name="Basic-Warhammer.scala" />
@@ -61,10 +56,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main3" />
+      <module name="Basic-Warhammer.scala" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main4" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main4" />
+      <module name="Basic-Warhammer.scala" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main5" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main5" />
+      <module name="Basic-Warhammer.scala" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main6" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main6" />
+      <module name="Basic-Warhammer.scala" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main5" />
         <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main6" />
+        <item itemvalue="Application.Main4" />
+        <item itemvalue="Application.Main3" />
       </list>
     </recent_temporary>
   </component>
@@ -87,11 +113,19 @@
       <option name="project" value="LOCAL" />
       <updated>1703701737220</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="pieces can not move and attack at range and in close combat. If a piece is destroyed the game ends.">
+      <created>1703830119670</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703830119670</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="basic code to create board, place pieces and move pieces." />
-    <option name="LAST_COMMIT_MESSAGE" value="basic code to create board, place pieces and move pieces." />
+    <MESSAGE value="pieces can not move and attack at range and in close combat. If a piece is destroyed the game ends." />
+    <option name="LAST_COMMIT_MESSAGE" value="pieces can not move and attack at range and in close combat. If a piece is destroyed the game ends." />
   </component>
 </project>
